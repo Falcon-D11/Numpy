@@ -1,13 +1,20 @@
 # NumPy Practice
 
-This repository contains my NumPy learning code.
+This repository contains my NumPy practice code covering fundamental concepts of array operations and data manipulation.
 
 ## Topics Covered
-- Creating arrays
-- 1D arrays
-- 2D arrays
-- Ones and zeros arrays
-- arange()
-- Identity matrix
+- NumPy Basics  
+- Array Properties  
+- Array Operations  
+- Indexing & Slicing  
+- Reshaping  
+- Array Modification  
+- Broadcasting & Vectorization  
+- Handling Missing Values  
+- Mini Projects  
 
-More concepts will be added soon.
+## Tech Stack
+- Python  
+- NumPy  
+
+This repository is part of my learning journey in Python and Data Science.
